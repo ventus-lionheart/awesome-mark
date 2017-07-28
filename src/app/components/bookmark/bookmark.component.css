@@ -1,0 +1,41 @@
+ul {
+  list-style: none;
+  font-size: 20px;
+  padding-left: 0px
+}
+
+.bookmark-item {
+  border: 2px solid grey;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin: 5px 0px;
+  overflow: hidden;
+}
+
+.bookmark-item a {
+  vertical-align: -webkit-baseline-middle;
+  margin-left: 10px;
+}
+
+.btn:focus, a:focus {
+  outline: none;
+}
+
+.favorite {
+  color: #a2a23a;
+}
+
+.not-favorite {
+  color: black;
+}
+
+.all-bookmarks .bookmark-btn {
+  background-color: rgba(255, 255, 255, 0);
+  border-color: rgba(204, 204, 204, 0);
+  transition: 0.2s ease-in;
+}
+
+.all-bookmarks .bookmark-btn:hover {
+  background-color: rgb(238, 232, 232);
+  box-shadow: 3px 3px 5px grey;
+}
