@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng build` and then `node app` for a dev server. Navigate to `http://localhost:8080/`. For the app will automatically reload if you change any of the source files, use `ng build --watch` and run with `nodemon`.
+Run `ng build` and then `node app` for a dev server. Navigate to `http://localhost:8080/`. For the app to automatically reload if you change any of the source files, use `ng build --watch` and run with `nodemon`.
 
 ## Code scaffolding
 
@@ -27,5 +27,5 @@ Before running the tests make sure you are serving the app via `ng serve`.
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-# Live App
+## Live App
 https://awesome-mark.herokuapp.com/
