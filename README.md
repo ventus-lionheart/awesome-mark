@@ -9,7 +9,7 @@ https://awesome-mark.herokuapp.com/
 
 ## Development server
 
-Run `ng build` and then `node app` for a dev server. Navigate to `http://localhost:8080/`. For the app to automatically reload if you change any of the source files, use `ng build --watch` and run with `nodemon`.
+Run `npm install` then `ng build` and then `node app` for a dev server. Navigate to `http://localhost:8080/`. For the app to automatically reload if you change any of the source files, use `ng build --watch` and run with `nodemon`.
 
 ## Code scaffolding
 
